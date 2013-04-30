@@ -1,7 +1,7 @@
 {
-  "name": "mixup",
-  "version": "0.0.0",
-  "description": "Example Readme",
+  "name": "simple-mixin",
+  "version": "0.0.1",
+  "description": "Simple mixins for javascript programs",
   "main": "index.js",
   "directories": {
     "test": "test"

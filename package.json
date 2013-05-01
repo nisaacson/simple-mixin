@@ -1,6 +1,6 @@
 {
   "name": "simple-mixin",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Simple mixins for javascript programs",
   "main": "index.js",
   "directories": {
